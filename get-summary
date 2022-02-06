@@ -1,0 +1,28 @@
+#!/bin/bash
+#=======================
+# Author : Ali Moradzade
+# Created: 2022/02/05
+#=======================
+
+# get summary
+# print each folder and its files, along with a summary sitauation field,
+# to specify each project situation.
+
+printf "%-70s| %-30s\n" "******* Name *******" "******* Situation *******" 
+perl -E "say '_' x 97";
+
+for directory in *
+do
+	if [ -d "$directory" ]
+	then
+		printf "%-70s| \n" "$directory";
+
+		for contents in "$directory"/*
+		do
+			printf "%4s%-66s| \n" " " "$(basename "$contents")"
+		done
+		
+		printf "%70s| \n" " "
+		perl -E "say '-' x 97";
+	fi
+done

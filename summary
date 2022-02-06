@@ -1,0 +1,192 @@
+                         ******* Name *******                         | ******* Situation *******     
+=================================================================================================
+00-python-object-and-data-structure-basics                            | 
+    01-Numbers.ipynb                                                  | C 2022/02/05
+    01-Variable Assignment.ipynb                                      | C 2022/02/05
+    02-Strings.ipynb                                                  | C 2022/02/05
+    03-Print Formatting with Strings.ipynb                            | C 2022/02/05
+    04-Lists.ipynb                                                    | C 2022/02/05
+    05-Dictionaries.ipynb                                             | C 2022/02/05
+    06-Tuples.ipynb                                                   | C 2022/02/06
+    07-Sets and Booleans.ipynb                                        | C 2022/02/06
+    08-Files.ipynb                                                    | C 2022/02/06
+    09-Objects and Data Structures Assessment Test.ipynb              | C 2022/02/06
+    10-Objects and Data Structures Assessment Test-Solution.ipynb     | C 2022/02/06
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+01-python-comparison-operators                                        | 
+    01-Comparison Operators.ipynb                                     | 
+    02-Chained Comparison Operators.ipynb                             | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+02-python-statements                                                  | 
+    01-Introduction to Python Statements.ipynb                        | 
+    02-if, elif, and else Statements.ipynb                            | 
+    03-for Loops.ipynb                                                | 
+    04-while Loops.ipynb                                              | 
+    05-Useful-Operators.ipynb                                         | 
+    06-List Comprehensions.ipynb                                      | 
+    07-Statements Assessment Test.ipynb                               | 
+    08-Statements Assessment Test - Solutions.ipynb                   | 
+    09-Guessing Game Challenge.ipynb                                  | 
+    10-Guessing Game Challenge - Solution.ipynb                       | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+03-methods-and-functions                                              | 
+    01-Methods.ipynb                                                  | 
+    02-Functions.ipynb                                                | 
+    03-Function Practice Exercises.ipynb                              | 
+    04-Function Practice Exercises - Solutions.ipynb                  | 
+    05-Lambda-Expressions-Map-and-Filter.ipynb                        | 
+    06-Nested Statements and Scope.ipynb                              | 
+    07-args and kwargs.ipynb                                          | 
+    08-Functions and Methods Homework.ipynb                           | 
+    09-Functions and Methods Homework - Solutions.ipynb               | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+04-milestone-project-1                                                | 
+    00-Warm-Up-Project-Exercises.ipynb                                | 
+    01-Milestone Project 1 - Assignment.ipynb                         | 
+    02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb         | 
+    03-Milestone Project 1 - Complete Walkthrough Solution.ipynb      | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+05-object-oriented-programming                                        | 
+    01-Object Oriented Programming.ipynb                              | 
+    02-Object Oriented Programming Homework.ipynb                     | 
+    03-Object Oriented Programming Homework - Solution.ipynb          | 
+    04-OOP Challenge.ipynb                                            | 
+    05-OOP Challenge - Solution.ipynb                                 | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+06-modules-and-packages                                               | 
+    00-Modules_and_Packages                                           | 
+    01-Name_and_Main                                                  | 
+    Useful_Info_Notebook.ipynb                                        | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+07-errors-and-exception-handling                                      | 
+    01-Errors and Exceptions Handling.ipynb                           | 
+    02-Errors and Exceptions Homework.ipynb                           | 
+    03-Errors and Exceptions Homework - Solution.ipynb                | 
+    04-Unit Testing.ipynb                                             | 
+    cap.py                                                            | 
+    __pycache__                                                       | 
+    simple1.py                                                        | 
+    simple2.py                                                        | 
+    test_cap.py                                                       | 
+    testfile                                                          | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+08-milestone-project-2                                                | 
+    00-Milestone-2-Warmup-Project.ipynb                               | 
+    01-Milestone Project 2 - Assignment.ipynb                         | 
+    02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb         | 
+    03-Milestone Project 2 - Complete Walkthrough Solution.ipynb      | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+09-empty-section-skip                                                 | 
+    01-Map.ipynb                                                      | 
+    02-Reduce.ipynb                                                   | 
+    03-Filter.ipynb                                                   | 
+    04-Zip.ipynb                                                      | 
+    05-Enumerate.ipynb                                                | 
+    06-all() and any().ipynb                                          | 
+    07-Complex.ipynb                                                  | 
+    08-Built-in Functions Assessment Test.ipynb                       | 
+    09-Built-in Functions Assessment Test - Solution.ipynb            | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+10-python-decorators                                                  | 
+    01-Decorators.ipynb                                               | 
+    02-Decorators Homework.ipynb                                      | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+11-python-generators                                                  | 
+    01-Iterators and Generators.ipynb                                 | 
+    02-Iterators and Generators Homework.ipynb                        | 
+    03-Iterators and Generators Homework - Solution.ipynb             | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+12-advanced-python-modules                                            | 
+    00-Collections-Module.ipynb                                       | 
+    01-Opening-and-Reading-Files-Folders.ipynb                        | 
+    02-Datetime-Module.ipynb                                          | 
+    03-Math-and-Random-Module.ipynb                                   | 
+    04-Python Debugger (pdb).ipynb                                    | 
+    05-Overview-of-Regular-Expressions.ipynb                          | 
+    06-Timing your code - timeit.ipynb                                | 
+    07-Unzipping-and-Zipping-Files.ipynb                              | 
+    08-Advanced-Python-Module-Exercise                                | 
+    Example_Top_Level                                                 | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+13-web-scraping                                                       | 
+    00-Guide-to-Web-Scraping.ipynb                                    | 
+    01-Web-Scraping-Exercises.ipynb                                   | 
+    02-Web-Scraping-Exercise-Solutions.ipynb                          | 
+    my_new_file_name.jpg                                              | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+14-working-with-images                                                | 
+    00-Overview-of-Working-with-Images.ipynb                          | 
+    01-Image-Exercise.ipynb                                           | 
+    02-Image-Exercise-Solution.ipynb                                  | 
+    blue_color.png                                                    | 
+    example.jpg                                                       | 
+    mask.png                                                          | 
+    pencils.jpg                                                       | 
+    purple.png                                                        | 
+    red_color.jpg                                                     | 
+    word_matrix.png                                                   | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+15-pdfs-and-spreadsheets                                              | 
+    00-Working-with-CSV-Files.ipynb                                   | 
+    01-Working-with-PDFs.ipynb                                        | 
+    02-PDFs-Spreadsheets-Puzzle.ipynb                                 | 
+    03-PDFs-Spreadsheets-Puzzle-Solution.ipynb                        | 
+    example.csv                                                       | 
+    Exercise_Files                                                    | 
+    makeup_new.csv                                                    | 
+    Some_BrandNew_Doc.pdf                                             | 
+    Some_New_Doc.pdf                                                  | 
+    Some_new_file.pdf                                                 | 
+    to_save_file.csv                                                  | 
+    Working_Business_Proposal.pdf                                     | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+16-emailing-with-python                                               | 
+    00-Overview-of-Sending-Emails.ipynb                               | 
+    01-Overview-of-Received-Emails.ipynb                              | 
+    02-Exercise-Ideas.ipynb                                           | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+17-advanced-python-objects-and-data-structures                        | 
+    01-Advanced Numbers.ipynb                                         | 
+    02-Advanced Strings.ipynb                                         | 
+    03-Advanced Sets.ipynb                                            | 
+    04-Advanced Dictionaries.ipynb                                    | 
+    05-Advanced Lists.ipynb                                           | 
+    06-Advanced Python Objects Test.ipynb                             | 
+    07-Advanced Python Objects Test - Solutions.ipynb                 | 
+    08-BONUS - With Statement Context Managers.ipynb                  | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+18-milestone-project-3                                                | 
+    01-Final Capstone Project.ipynb                                   | 
+    02-Final Capstone Project Ideas.ipynb                             | 
+    Projects-Solutions                                                | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
+19-bonus-material-introduction-to-guis                                | 
+    01-Interact.ipynb                                                 | 
+    02-Widget Basics.ipynb                                            | 
+    03-Widget List.ipynb                                              | 
+    04-Widget Events.ipynb                                            | 
+    05-Widget Styling.ipynb                                           | 
+    06-Custom Widget.ipynb                                            | 
+    07-Advanced Widget List.ipynb                                     | 
+    08-Advanced Widget Styling with Layout.ipynb                      | 
+                                                                      | 
+-------------------------------------------------------------------------------------------------
