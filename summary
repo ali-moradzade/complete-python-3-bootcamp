@@ -15,21 +15,21 @@
                                                                       | 
 -------------------------------------------------------------------------------------------------
 01-python-comparison-operators                                        | 
-    01-Comparison Operators.ipynb                                     | 
-    02-Chained Comparison Operators.ipynb                             | 
+    01-Comparison Operators.ipynb                                     | C 2022/02/07
+    02-Chained Comparison Operators.ipynb                             | C 2022/02/07
                                                                       | 
 -------------------------------------------------------------------------------------------------
 02-python-statements                                                  | 
-    01-Introduction to Python Statements.ipynb                        | 
-    02-if, elif, and else Statements.ipynb                            | 
-    03-for Loops.ipynb                                                | 
-    04-while Loops.ipynb                                              | 
-    05-Useful-Operators.ipynb                                         | 
-    06-List Comprehensions.ipynb                                      | 
-    07-Statements Assessment Test.ipynb                               | 
-    08-Statements Assessment Test - Solutions.ipynb                   | 
-    09-Guessing Game Challenge.ipynb                                  | 
-    10-Guessing Game Challenge - Solution.ipynb                       | 
+    01-Introduction to Python Statements.ipynb                        | C 2022/02/07
+    02-if, elif, and else Statements.ipynb                            | C 2022/02/07
+    03-for Loops.ipynb                                                | C 2022/02/07
+    04-while Loops.ipynb                                              | C 2022/02/07
+    05-Useful-Operators.ipynb                                         | C 2022/02/07
+    06-List Comprehensions.ipynb                                      | C 2022/02/07
+    07-Statements Assessment Test.ipynb                               | C 2022/02/07
+    08-Statements Assessment Test - Solutions.ipynb                   | C 2022/02/07
+    09-Guessing Game Challenge.ipynb                                  | C 2022/02/07
+    10-Guessing Game Challenge - Solution.ipynb                       | C 2022/02/07
                                                                       | 
 -------------------------------------------------------------------------------------------------
 03-methods-and-functions                                              | 
