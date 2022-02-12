@@ -1,0 +1,27 @@
+#!/bin/bash
+#=======================
+# Author : Ali Moradzade
+# Created: 2022/02/12
+#=======================
+
+# change logo path
+
+for directory in *
+do
+	if [ -d "$directory" ]
+	then
+		echo "cd to $directory ..."
+		cd "$directory"
+		for python_file in *.ipynb
+		do
+			echo "$python_file"
+			cp ../pierian-data-logo.png .
+			sed -i '9c\    "![alt](pierian-data-logo.png)\\n",' "$python_file"
+			echo "file $python_file processd successfully!"
+			echo
+		done
+		echo "cd .."
+		cd ..
+		echo
+	fi
+done
