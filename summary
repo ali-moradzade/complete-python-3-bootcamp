@@ -109,16 +109,16 @@
                                                                       | 
 -------------------------------------------------------------------------------------------------
 12-advanced-python-modules                                            | 
-    00-Collections-Module.ipynb                                       | 
-    01-Opening-and-Reading-Files-Folders.ipynb                        | 
-    02-Datetime-Module.ipynb                                          | 
-    03-Math-and-Random-Module.ipynb                                   | 
-    04-Python Debugger (pdb).ipynb                                    | 
-    05-Overview-of-Regular-Expressions.ipynb                          | 
-    06-Timing your code - timeit.ipynb                                | 
-    07-Unzipping-and-Zipping-Files.ipynb                              | 
-    08-Advanced-Python-Module-Exercise                                | 
-    Example_Top_Level                                                 | 
+    00-Collections-Module.ipynb                                       | C 2022/02/14
+    01-Opening-and-Reading-Files-Folders.ipynb                        | C 2022/02/14
+    02-Datetime-Module.ipynb                                          | C 2022/02/14
+    03-Math-and-Random-Module.ipynb                                   | C 2022/02/14
+    04-Python Debugger (pdb).ipynb                                    | C 2022/02/14
+    05-Overview-of-Regular-Expressions.ipynb                          | C 2022/02/14
+    06-Timing your code - timeit.ipynb                                | C 2022/02/14
+    07-Unzipping-and-Zipping-Files.ipynb                              | C 2022/02/14
+    08-Advanced-Python-Module-Exercise                                | C 2022/02/14
+    Example_Top_Level                                                 | C 2022/02/14
                                                                       | 
 -------------------------------------------------------------------------------------------------
 13-web-scraping                                                       | 
