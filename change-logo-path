@@ -10,18 +10,27 @@ for directory in *
 do
 	if [ -d "$directory" ]
 	then
-		echo "cd to $directory ..."
+		echo "$directory"
 		cd "$directory"
 		for python_file in *.ipynb
 		do
-			echo "$python_file"
-			cp ../pierian-data-logo.png .
-			sed -i '9c\    "![alt](pierian-data-logo.png)\\n",' "$python_file"
-			echo "file $python_file processd successfully!"
-			echo
+			if [ -f "$python_file" ]
+			then
+				cp ../pierian-data-logo.png .
+				line9=$(sed -n '9p' "$python_file")
+				printf "\t%s:\n\t\t%s\n" "$python_file" "$line9"
+
+				trimed=$(echo "$line9" | perl -pe 's/^\s+//m; s/\s+$//m')
+				if [ "$trimed" = "\"<a href='http://www.pieriandata.com'><img src='../Pierian_Data_Logo.png'/></a>\n\"," ] ||
+					[ "$trimed" = "\"<a href='http://www.pieriandata.com'> <img src='../Pierian_Data_Logo.png' /></a>\n\"," ] ||
+					[ "$trimed" = "\"<a href='https://www.udemy.com/user/joseportilla/'><img src='../Pierian_Data_Logo.png'/></a>\n\"," ]
+				then
+					sed -i '9c\    "![alt](pierian-data-logo.png)\\n",' "$python_file"
+					printf "\t\tchanged successfully!\n"
+				fi
+			fi
 		done
-		echo "cd .."
-		cd ..
 		echo
+		cd ..
 	fi
 done
