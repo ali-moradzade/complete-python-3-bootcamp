@@ -1,0 +1,17 @@
+#!/bin/bash
+#=======================
+# Author : Ali Moradzade
+# Created: 2022/09/10
+#=======================
+
+#stands
+
+count=1
+for d in *
+do
+	if [ -d "$d" ]
+	then
+		rename "s/^(\d+)/sprintf('%02d', $count)/e" "$d"
+		((count++))
+	fi
+done
